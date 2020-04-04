@@ -1,0 +1,92 @@
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\ApplicationInsights.config
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Snowboard Shop Online.dll.config
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Snowboard Shop Online.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Snowboard Shop Online.pdb
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\WebForms_Basic.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\csc.exe
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\csc.exe.config
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\csc.rsp
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\csi.exe
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\csi.exe.config
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\csi.rsp
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.AppContext.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Console.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\vbc.exe
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\vbc.exe.config
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\vbc.rsp
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Antlr3.Runtime.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.Web.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Newtonsoft.Json.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\System.Web.Optimization.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\WebGrease.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\System.Web.Optimization.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Newtonsoft.Json.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Antlr3.Runtime.pdb
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.AI.Web.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\obj\Debug\Snowboard Shop Online.vbprojAssemblyReference.cache
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\obj\Debug\Snowboard_Shop_Online.Resources.resources
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\obj\Debug\Snowboard Shop Online.vbproj.GenerateResource.cache
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\obj\Debug\Snowboard Shop Online.vbproj.CoreCompileInputs.cache
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\obj\Debug\Snowboard Shop Online.vbproj.CopyComplete
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\obj\Debug\Snowboard Shop Online.dll
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\obj\Debug\WebForms_Basic.xml
+C:\Users\Nellie\Documents\Visual Studio 2017\Snowboard Shop Online\Snowboard Shop Online\obj\Debug\Snowboard Shop Online.pdb
